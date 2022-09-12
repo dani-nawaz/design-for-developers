@@ -82,3 +82,37 @@ animated gradient
 https://codepen.io/sdras/pen/aZrWPR
 
 abobe colors
+## fonts
+
+- https://fonts.google.com/
+- https://www.fontsquirrel.com/
+- https://www.fonts.com/
+- https://www.myfonts.com/pages/display-fonts
+- https://www.typography.com/fonts/styles/handwritten
+- font generator https://fontjoy.com/
+
+# tools 
+https://fontjoy.com/
+
+https://css-tricks.com/snippets/svg/text-lock-up/
+
+https://codepen.io/MadeByMike/ (responsive typo)
+
+Sarah covers the rythm and cadence of typography along with exploring tools and code to help you create responsive fluid typography.
+- https://creativemarket.com/blog/typography-terms-cheatsheet?utm_source=Link&utm_medium=CM+Social+Share&utm_campaign=Blog+Post+Social+Share&utm_content=Free+Typography+Basics+Cheatsheet%3A+Anatomy%2C+Classification+%26+Special+Terms+~+Creative+Market+Blog&ts=201811
+
+- https://glitch.com/
+- https://www.behance.net/
+- Sarah discusses the importance of taking inspiration from other sources and finding your heroes, but not copying them - remixing them.
+- Sarah shares several sources to pull from when looking for inspiration.
+http://give-n-go.co/ https://codepen.io/sdras/full/oMZjZa https://codepen.io/mirisuzanne/full/LmrEmb/ https://www.shutterstock.com/ https://www.istockphoto.com/ https://creativemarket.com/add-ons/actions https://codepen.io/patterns/
+- https://thenounproject.com/
+
+## image:
+- Sarah covers best practices exporting images with emphasis on performance and optimal size.
+https://tinyjpg.com/ https://tinypng.com/ https://jakearchibald.github.io/svgomg/
+- Sarah shows examples of SVG scaling, cropping, clipping, and masking and then highlights some great uses for SVG . Sarah also briefly covers full page backgrounds.
+https://css-tricks.com/masking-vs-clipping-use/ https://codepen.io/shshaw/full/LVKEdv https://s.codepen.io/yoksel/debug/fsdbu/yYryLOPwEydM https://codepen.io/noeldelgado/pen/ByxQjL https://css-tricks.com/perfect-full-page-background-image/
+flipping:
+Sarah shows examples of page transitions, from working code in the wild to concepts created by video effects.
+https://pagetransitions.netlify.app/ http://rallyinteractive.com/ https://tympanus.net/codrops/ https://tympanus.net/Development/PageFlipLayout/ https://github.com/davidkpiano/flipping
