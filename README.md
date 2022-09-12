@@ -47,3 +47,14 @@ https://labs.jensimmons.com/
 
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://webanimationworkshops.com/
+![Screenshot 2022-09-12 at 11 19 35 AM](https://user-images.githubusercontent.com/69709106/189586129-95b3d8f9-9fb3-4349-bd66-8b6e2792984d.png)
+zx
+https://bennettfeely.com/clippy/
+
+https://codepen.io/sdras/full/XdgBOa
+
+https://24ways.org/2016/css-writing-modes/
+
+https://dribbble.com/shots/3925911-Visual-exploration
