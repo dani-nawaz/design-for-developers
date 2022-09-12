@@ -58,3 +58,27 @@ https://codepen.io/sdras/full/XdgBOa
 https://24ways.org/2016/css-writing-modes/
 
 https://dribbble.com/shots/3925911-Visual-exploration
+
+## colors
+
+https://coolors.co/
+
+https://palettab.com/
+
+adobe capture
+
+https://uigradients.com/#ALostMemory
+
+palletetab
+
+https://www.adobe.com/products/capture.html
+
+https://color.adobe.com/create/color-wheel
+
+https://colorable.jxnblk.com/000000/d07fab
+
+animated gradient
+
+https://codepen.io/sdras/pen/aZrWPR
+
+abobe colors
