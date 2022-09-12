@@ -113,6 +113,6 @@ http://give-n-go.co/ https://codepen.io/sdras/full/oMZjZa https://codepen.io/mir
 https://tinyjpg.com/ https://tinypng.com/ https://jakearchibald.github.io/svgomg/
 - Sarah shows examples of SVG scaling, cropping, clipping, and masking and then highlights some great uses for SVG . Sarah also briefly covers full page backgrounds.
 https://css-tricks.com/masking-vs-clipping-use/ https://codepen.io/shshaw/full/LVKEdv https://s.codepen.io/yoksel/debug/fsdbu/yYryLOPwEydM https://codepen.io/noeldelgado/pen/ByxQjL https://css-tricks.com/perfect-full-page-background-image/
-flipping:
+## flipping:
 Sarah shows examples of page transitions, from working code in the wild to concepts created by video effects.
 https://pagetransitions.netlify.app/ http://rallyinteractive.com/ https://tympanus.net/codrops/ https://tympanus.net/Development/PageFlipLayout/ https://github.com/davidkpiano/flipping
