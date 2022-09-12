@@ -44,3 +44,6 @@ All slide decks are in the `slides-pdf` folder in pdf form ordered by number.
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 https://cssgridgarden.com/
 https://labs.jensimmons.com/
+
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
